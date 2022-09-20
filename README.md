@@ -25,7 +25,7 @@
     implementation 'com.intuit.ssp:ssp-android:1.0.6'
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
 
+![screenshot 1](screenshots/image1.png)
 
-    ![alt text](https://github.com/rehemae/RehemaAssement-Android/tree/main/screenshots/image1.png)
+![screenshot 2](screenshots/image2.png)
 
-    ![alt text](https://github.com/rehemae/RehemaAssement-Android/tree/main/screenshots/image2.png)
