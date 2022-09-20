@@ -24,3 +24,8 @@
     4.) ///for dimens and screen responsiveness for many devices to render the graphical user interface friendly and responsive according to screen size
     implementation 'com.intuit.ssp:ssp-android:1.0.6'
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
+
+
+    ![alt text](https://github.com/rehemae/RehemaAssement-Android/tree/main/screenshots/image1.png)
+
+    ![alt text](https://github.com/rehemae/RehemaAssement-Android/tree/main/screenshots/image2.png)
