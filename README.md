@@ -29,3 +29,7 @@
 
 ![screenshot 2](screenshots/image2.png)
 
+<img src="https://github.com/rehemae/RehemaAssement-Android/tree/main/screenshots/image1.png"/>
+
+<img src="https://github.com/rehemae/RehemaAssement-Android/tree/main/screenshots/image2.png"/>
+
